@@ -4,14 +4,13 @@ Hello! I’m **Okechukwu Nwaogwugwu**, a data analyst passionate about turning r
 
 ## SKILLS
 
-🔹 Work with **Excel (Power query, Power pivot), SQL, Power BI, Tableau, and Python** to analyze trends and optimize processes.  
+🔹 Work with **Excel (Power query, Power pivot), SQL, Power BI, Tableau, and Python** to clean, transform, analyze trends and optimize processes.  
 🔹 Build **interactive dashboards** that bring data to life.  
 🔹 Use data to solve complex problems and drive informed decisions across various domains.  
 
 📈 Always learning, always exploring—let’s connect and talk data!  
 
 ---
-
 ## 📂 My Portfolio  
 Here are some of the projects I’ve worked on.  
 
