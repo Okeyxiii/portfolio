@@ -14,7 +14,7 @@ Hello! I’m **Okechukwu Nwaogwugwu**, a data analyst passionate about turning r
 ## 📂 My Projects  
 Here are some of the projects I’ve worked on.  
 
-### 🔹 **Empowering Wellness Through Data-Driven Insights**  
+### 🔹 **How I Helped Bellabeat Drive Wellness Through Data**  
 📌 This analysis uncovers trends in smart device usage through Fitbit data, offering valuable insights to boost Bellabeat's market competitiveness and user satisfaction. The findings help shape Bellabeat’s marketing strategy, aligning it with evolving wellness trends.
 
 🛠️ **Tools Used:** Microsoft SQL Server, Power BI 
