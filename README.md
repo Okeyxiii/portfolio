@@ -1,6 +1,6 @@
 ## ABOUT ME  
 
-I’m **Okechukwu Nwaogwugwu**, a data analyst passionate about turning raw data into meaningful insights. With a strong background in **data visualization, analytics, and business intelligence**, I transform complex datasets into clear, impactful stories.  
+Hello! I’m **Okechukwu Nwaogwugwu**, a data analyst passionate about turning raw data into meaningful insights. With a strong background in **data visualization, analytics, and business intelligence**, I transform complex datasets into clear, impactful stories.  
 
 ## What I Do  
 
