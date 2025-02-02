@@ -11,7 +11,7 @@ Hello! I’m **Okechukwu Nwaogwugwu**, a data analyst passionate about turning r
 📈 Always learning, always exploring—let’s connect and talk data!  
 
 ---
-## 📂 My Portfolio  
+## 📂 My Projects  
 Here are some of the projects I’ve worked on.  
 
 ### 🔹 **Empowering Wellness Through Data-Driven Insights**  
