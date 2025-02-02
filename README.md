@@ -22,6 +22,6 @@ Here are some of the projects I’ve worked on.
 
 ![Project Image](dASHBOARD 1.png)  
 
-🔗 **[Read More]https://medium.com/@okeyxiii/bellabeat-case-study-eea0d9e559c1**  
+🔗 **[Read More](https://medium.com/@okeyxiii/bellabeat-case-study-eea0d9e559c1)**  
 
  
