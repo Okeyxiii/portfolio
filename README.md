@@ -20,7 +20,7 @@ Here are some of the projects I’ve worked on.
 
 🛠️ **Tools Used:** Microsoft SQL Server, Power BI 
 
-![Project Image](image-link-here)  
+![Project Image]dASHBOARD 1.png  
 
 🔗 **[Read More]https://medium.com/@okeyxiii/bellabeat-case-study-eea0d9e559c1**  
 
