@@ -23,4 +23,11 @@ Here are some of the projects I’ve worked on.
 
 🔗 **[Read More](https://medium.com/@okeyxiii/bellabeat-case-study-eea0d9e559c1)**  
 
- 
+## 📬 Contact Me  
+💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/okechukwu-nwaogwugwu-016037145/)  
+🐦 **Twitter:** [Your Twitter](https://x.com/Okeykenneth1)  
+✍️ **Medium:** [Your Medium](https://medium.com/@okeyxiii)  
+📘 **Facebook:** [Your Facebook](https://web.facebook.com/Okeyken/)  
+📞 **Phone:** +234 7033527207(Whatsapp) +234 7016387992  
+
+Let’s connect and collaborate! 🚀 
