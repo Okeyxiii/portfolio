@@ -23,18 +23,18 @@ Here are some of the projects I’ve worked on.
 
 🔗 **[Read More](https://medium.com/@okeyxiii/bellabeat-case-study-eea0d9e559c1)**  
 
-# Store Offer Analysis: Data-Driven Recommendations  
+---
 
-## Project Overview  
+### Store Offer Analysis: Data-Driven Recommendations  
+
+### Project Overview  
 In this analysis, I determined which food and beverage offers should be introduced in new store locations based on data-driven insights. The goal was to help senior leadership make informed decisions on product offerings by analyzing sales performance, customer behavior, and store types.  
 
-## Tools Used  
-- **Excel** (Power Query, Pivot Tables, Correlation Analysis)  
-- **Data Visualization** (Charts, Slicers, KPI Cards)  
+🛠️ **Tools Used:** Excel (Power Query, Pivot Tables, Correlation Analysis), Data Visualization (Charts, Slicers, KPI Cards)  
 
 ## Report & Findings  
 You can view the full analysis and recommendations here:  
-[🔗 Link to the Analysis](https://www.linkedin.com/pulse/data-driven-retail-expansion-how-i-determined-best-food-nwaogwugwu-oaqcf/?trackingId=mYcB%2FbIJpM3FIXcHzncuIQ%3D%3D)  
+[🔗 Read more](https://www.linkedin.com/pulse/data-driven-retail-expansion-how-i-determined-best-food-nwaogwugwu-oaqcf/?trackingId=mYcB%2FbIJpM3FIXcHzncuIQ%3D%3D)  
 
 ![Project Image](dASHBOARD 1.png)
 
