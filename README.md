@@ -36,7 +36,7 @@ In this analysis, I determined which food and beverage offers should be introduc
 You can view the full analysis and recommendations here:  
 [🔗 Read more](https://www.linkedin.com/pulse/data-driven-retail-expansion-how-i-determined-best-food-nwaogwugwu-oaqcf/?trackingId=mYcB%2FbIJpM3FIXcHzncuIQ%3D%3D)  
 
-![Project Image](dASHBOARD 1.png)
+![Project Image](TravelCenters-of-America-Future-Plans.png)
 
 
 ## 📬 Contact Me  
