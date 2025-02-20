@@ -38,6 +38,14 @@ You can view the full analysis and recommendations here:
 
 ![Project Image](TravelCenters-of-America-Future-Plans.png)
 
+### 🔹 **Building an End-to-End Data Pipeline for an Online Bookstore**  
+📌 In this article, I walk through the creation of an end-to-end data pipeline for a fictional bookstore, from generating simulated data with Python to building a comprehensive analytics solution using Snowflake, DBT, and Power BI.
+
+🛠️ **Tools Used:** Python, AWS S3, Snowflake, DBT, Power BI 
+
+🔗 **[Read More](https://www.linkedin.com/pulse/building-end-to-end-data-pipeline-online-bookstore-nwaogwugwu-ts8uf/?trackingId=IQRJ6WwKQ9KLb%2BwkCwEtog%3D%3D)**  
+
+---
 
 ## 📬 Contact Me  
 💼 [**LinkedIn**](https://www.linkedin.com/in/okechukwu-nwaogwugwu-016037145/)  
