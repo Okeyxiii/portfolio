@@ -47,6 +47,8 @@ You can view the full analysis and recommendations here:
 
 🔗 **[Read More](https://www.linkedin.com/pulse/building-end-to-end-data-pipeline-online-bookstore-nwaogwugwu-ts8uf/?trackingId=IQRJ6WwKQ9KLb%2BwkCwEtog%3D%3D)**  
 
+![Project Image]()
+
 ---
 
 
